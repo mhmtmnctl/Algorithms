@@ -1,0 +1,9 @@
+Tanım : ilk elemandan son elemana kadar her elemanı kendinden sonra gelen, kendinden
+küçük elemanların en küçüğü ile yer değiştirme işlemidir.
+
+      { 1 , 2 , 3, 10 , 6 , 4 , 7 }  --> sıralıyalım
+
+
+Time Complexity : En kötü durumda O(n2) zaman alıyor , zaman açısından verimsiz,
+ama en avantajlı tarafı bellek kullanımı O(1) , ekstra bir tane temp değişkene
+ihtiyaç duyduğu için
