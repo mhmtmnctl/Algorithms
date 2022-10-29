@@ -1,0 +1,6 @@
+AÇIKLAMA: Diziyi ikiye bölüp, oluşan kümeleri tekrar birleştirmeli sıralama
+algoritmasına atıyor ve böylece dizi sürekli ikiye bölünmüş oluyor.Elemanları
+ikişerli olarak karşılaştırıp sıralı biçimde birleştirerek dört elemanlı alt
+kümeler elde edilir. Böyle devam ettiğimizde örneğin dizimiz 16 elemanlı ise
+elimizde 8 elemanlı , elemanları sıralı iki alt küme kalıyor, bu alt kümeleri
+de aynı şekilde sıralı biçimde birleştirdiğimiz zaman dizimiz sıralanmış oluyor.
